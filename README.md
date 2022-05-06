@@ -1,4 +1,4 @@
 # Git-cowrs
 for-mjd
 
-##project nutes
+## project notes
